@@ -1,2 +1,2 @@
-# Dio-java-basic
-Repositório para armazenar meus feitos no curso Basico de java na Dio 
+# POO_Kris
+Meu Primeiro repositório para armazenar as atividades e minha evolução.
