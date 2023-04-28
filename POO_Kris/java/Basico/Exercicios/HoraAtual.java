@@ -1,6 +1,5 @@
 package POO_Kris.java.Basico.Exercicios;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 
 public class HoraAtual {
