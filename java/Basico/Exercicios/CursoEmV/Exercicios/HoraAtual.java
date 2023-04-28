@@ -1,4 +1,4 @@
-package POO_Kris.java.Basico.Exercicios;
+package Exercicios;
 
 import java.time.LocalDateTime;
 

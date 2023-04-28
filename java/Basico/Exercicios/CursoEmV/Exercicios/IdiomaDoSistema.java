@@ -1,8 +1,8 @@
-package POO_Kris.java.Basico.Exercicios;
+package Exercicios;
 
 import java.util.Locale;
 
-public class IdentificadorDeIdioma {
+public class IdiomaDoSistema {
     public static void main(String[] args) {
         Locale IdiomaLocal = Locale.getDefault();
         
