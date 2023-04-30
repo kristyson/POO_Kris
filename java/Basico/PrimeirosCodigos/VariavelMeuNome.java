@@ -1,4 +1,4 @@
-package java.Basico.PrimeirosCodigos;
+package Basico.PrimeirosCodigos;
 
 public class VariavelMeuNome {
 
