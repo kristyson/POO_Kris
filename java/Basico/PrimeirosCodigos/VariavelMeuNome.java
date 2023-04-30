@@ -1,4 +1,4 @@
-package POO_Kris.java.Basico.PrimeirosCodigos;
+package java.Basico.PrimeirosCodigos;
 
 public class VariavelMeuNome {
 
