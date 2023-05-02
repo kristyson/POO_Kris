@@ -1,1 +1,11 @@
 https://glysns.gitbook.io/java-basico/
+
+\*
+
+Metodos > 
+variavel.getText = Pega o valor da variavel
+variavel.setText = Mudar a variavel 
+
+
+
+*\
