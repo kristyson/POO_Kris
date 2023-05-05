@@ -144,9 +144,16 @@ public class IdadeParaVotar extends javax.swing.JFrame {
         int anoN = Integer.parseInt(nasc.getText());
         int anoR = 2023 - anoN;
         idade.setText(Integer.toString(anoR));
-        String sit = ((anoR>=16  && anoR<18)|| (anoR>70)) ? "VOTAÇÃO OPCIONAL" : "VOTAÇÃO OBRIGATÓRIA" ;
-        result.setText(sit);
-
+        if (anoR < 16){
+            result.setText("VOTAÇÃO PROIBIDA");
+                    
+        }else if((anoR >=16 && anoR<18)||(anoR>=70)){
+                result.setText("VOTAÇÃO OPCIONAL");
+                
+        }else{
+                result.setText("VOTAÇÃO OBRIGATORIA");
+            
+        }
 
 
 
